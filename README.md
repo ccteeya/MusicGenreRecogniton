@@ -71,7 +71,7 @@ CNN-LSTM accuracy = *~61%*
 
 The CNN-LSTM VS CNN-GRU plot is like below:
 
-![](images/accuracy_comparison.png)
+![](images/accuracy_comparison.PNG)
 
 ## References
 
