@@ -20,7 +20,7 @@ It has the following genres:
 
 ## Built With
 * Python3
-* Keras (running tensorflow in the banckend)
+* Keras (running tensorflow in the backend)
 ## How it works
 First I take each song from each genre one by one. To make a training set from audio files I convert audio files to their [mel-spectograms](https://en.wikipedia.org/wiki/Mel-frequency_cepstrum). Mel-spectogram of an audio file may look like this:
 
